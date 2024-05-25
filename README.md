@@ -25,11 +25,10 @@
 ### 👨‍💻 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/search?q=user%3AAbhigyan-Srivastava+is%3Arepo+language%3Acss"><img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AAbhigyan-Srivastava+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AAbhigyan-Srivastava+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AAbhigyan-Srivastava+is%3Arepo+language%3Ajavascript"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-</p>
+   <a href="https://github.com/search?q=user%3AVijaykumar069+language%3ABootstrap&type=repositories"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AVijaykumar069+language%3Anpm&type=repositories"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AVijaykumar069+language%3Anodejs&type=repositories"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AVijaykumar069+language%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 
 ### 🗄 Databases
 
