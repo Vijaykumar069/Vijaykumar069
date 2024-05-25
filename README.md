@@ -73,3 +73,4 @@
  </a>
 </p>
 
+[![Vijay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijaykumar069&show_icons=true&theme=radical)](https://github.com/Vijaykumar069)
