@@ -57,7 +57,13 @@
     <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p> 
 
+
 ## 🔥 Streak Stats
+<p align="center">
+  <a href="https://github.com/Vijaykumar069">
+    <img title="🔥" alt="Vijay Kumar's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Vijaykumar069&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=202124&ring=DB7063&fire=FF8273&currStreakNum=DB7063&sideNums=DB7063&sideLabels=FFFFFF&currStreakLabel=DDDDDD&dates=DB7063"/>
+  </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/Vijaykumar069">
@@ -72,6 +78,5 @@
 <img title="🔥" alt="Vijay Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykumar069&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
  </a>
 </p>
-<div align="center">
-[![Vijay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijaykumar069&show_icons=true&theme=radical)](https://github.com/Vijaykumar069)
-</div>
+
+
