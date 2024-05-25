@@ -72,5 +72,6 @@
 <img title="🔥" alt="Vijay Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykumar069&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
  </a>
 </p>
-
+<div align="center">
 [![Vijay Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijaykumar069&show_icons=true&theme=radical)](https://github.com/Vijaykumar069)
+</div>
