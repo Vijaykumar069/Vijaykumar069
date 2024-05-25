@@ -4,6 +4,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vijaykumar069.github.io/MyPortfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaya-kumar-annam-267237261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stupid_bouy069)
 
 🧠 I'm currently learning: Data Structures and Algorithms, ReactJS, NodeJS <br>
 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1ht-hYOuiXw2f4XnWCVblGHX86sjAw6Gu/view?usp=drivesdk">Resume</a><br>
