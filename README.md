@@ -29,13 +29,13 @@
 <a href="https://github.com/search?q=user%3AVijaykumar069+language%3Anpm&type=repositories"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AVijaykumar069+language%3Anodejs&type=repositories"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AVijaykumar069+language%3Areact&type=repositories"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-
+</p>
 ### 🗄 Databases
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<!--     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-</p> -->
+<!--<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a> -->
+</p> 
 
 ### 💻 Editors and Softwares
 
@@ -53,16 +53,9 @@
 
 ## 🔥 Streak Stats
 
-<p align="center">
-    <a href="https://github.com/Vijaykuma069">
-    <img title="🔥" alt="Vijay's Streak Stats" src="https://github.com/Vijaykumar069"/>
-  </a>
-</p>
+<img title="🔥" alt="Vijay Kumar's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Vijaykumar069&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=202124&ring=DB7063&fire=FF8273&currStreakNum=DB7063&sideNums=DB7063&sideLabels=FFFFFF&currStreakLabel=DDDDDD&dates=DB7063"/>
 
 ## 🔧 Top Languages
 
-<p align="center">
-  <a href="https://github.com/Vijaykumar069">
-  <img title="🔥" alt="https://github.com/Vijaykumar069"/>
-  </a>
-</p>
+<img title="🔥" alt="Vijay Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykumar069&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
+
