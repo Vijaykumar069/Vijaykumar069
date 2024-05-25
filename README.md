@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/Vijaykumar069">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Vijaykumar069&label=Profile%20views&color=blueviolet&style=flat" alt="Vijay" /></p>
+<img src="https://komarev.com/ghpvc/?username=Vijaykumar069&label=Profile%20views&color=blueviolet&style=flat" alt="Vijay" />
 </a>
 </p>
 
