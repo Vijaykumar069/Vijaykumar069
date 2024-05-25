@@ -8,7 +8,11 @@
 🧠 I'm currently learning: Data Structures and Algorithms, ReactJS, NodeJS <br>
 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1ht-hYOuiXw2f4XnWCVblGHX86sjAw6Gu/view?usp=drivesdk">Resume</a><br>
 
+<p align="center">
+<a href="https://github.com/Vijaykumar069">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Vijaykumar069&label=Profile%20views&color=blueviolet&style=flat" alt="Vijay" /></p>
+</a>
+</p>
 
 ## 🛠 Tools
 
